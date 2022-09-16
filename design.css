@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Combo&family=Nabla&display=swap');
+
+h1{
+    font-family: 'Nabla', cursive;
+    
+}
+.p1{
+    font-family: 'Combo', cursive;
+
+}
