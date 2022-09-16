@@ -3,9 +3,26 @@
 
 h1{
     font-family: 'Nabla', cursive;
+   
     
+}
+.mae{
+    padding: 300px 50px;
+    position: absolute;
+
+
+}
+.img1{
+    border-radius: 50%;
+    padding: 30% 40%;
+    position: absolute;
+
+}
+.links{
+   
 }
 .p1{
     font-family: 'Combo', cursive;
+  
 
 }
