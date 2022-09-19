@@ -1,8 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+body{
+    background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png);
+}
+
+h1{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 43px;
+    color: white;
+}
+h2{
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
 .conteudo{
-  
-    margin-top: 70px; 
+    margin-top: 100px; 
     text-align: center;
-    margin-bottom: 50px;
+    
 }
 
 
@@ -14,12 +28,15 @@
 
 
 
-#list li{
-    
+#list li{    
     display:inline ;
     margin-left: 10px;
    
 }
 ul{
     padding: 0% 0% 10% 0%;
+    
+}
+a{
+    color: white;
 }
