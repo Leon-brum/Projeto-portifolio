@@ -1,0 +1,14 @@
+.foto{
+    
+}
+.face{
+    height: 50px;
+    
+}
+.facebook_logo {
+    fill: white;
+    stroke: black;
+    display: inline-block;
+    width: 22px;
+    height: 40px;
+}
