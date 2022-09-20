@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 body{
     background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png);
 }
@@ -16,7 +18,7 @@ h2{
 .conteudo{
     margin-top: 100px; 
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 700px;
 }
 
 
@@ -39,4 +41,17 @@ ul{
 }
 a{
     color: white;
+}
+#about{
+    font-family: 'Quicksand', sans-serif;
+    background-color: white; 
+    font-size: 50px;
+    padding: 60px 100px 40px 100px;
+    
+}
+
+#me{
+    width: 80%;
+
+    
 }
