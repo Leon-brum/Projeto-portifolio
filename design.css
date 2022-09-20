@@ -87,3 +87,29 @@ a{
 #img-git{
     height: 50px;
 }
+.html-knowledge{
+    flex: 1 1 auto;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    display: flex;
+    max-width: 350px;
+    flex-direction: column;
+    background-color: #118ab2;
+    width: 30%;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+}
+.css-knowledge{
+    flex: 1 1 auto;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    display: flex;
+    max-width: 350px;
+    flex-direction: column;
+    background-color: #073b4c;
+    width: 30%;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+}
