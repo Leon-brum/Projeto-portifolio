@@ -63,7 +63,7 @@ a{
 }
 #knowledge{
     background-color: white;
-   
+    padding: 60px 100px 40px 100px;   
     
 }
 #habilits{
@@ -119,4 +119,31 @@ a{
 }
 #img-css{
     height: 50px;
+    
+}
+#social{
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+    font-size: 50px;
+    text-align: center; 
+}
+.icons{
+    background-color: white;
+    text-align: center;
+    
+}
+#img-facebook{
+    height: 50px;
+    
+}
+#img-twitter{
+    height: 50px;
+}
+#img-instagram{
+    height: 50px;
+}
+.img-align{
+    display: inline;
 }
