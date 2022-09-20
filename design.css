@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+body{
+    background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png);
+}
+
+h1{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 43px;
+    color: white;
+}
+h2{
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.conteudo{
+    margin-top: 100px; 
+    text-align: center;
+    margin-bottom: 700px;
+}
+
+
+.foto{
+    border-radius: 50%;
+    height: 200px;
+
+}
+
+
+
+#list li{    
+    display:inline ;
+    margin-left: 10px;
+   
+}
+ul{
+    padding: 0% 0% 10% 0%;
+    
+}
+a{
+    color: white;
+    font-size: 18px;
+}
+#about{
+    font-family: 'Quicksand', sans-serif;
+    background-color: white; 
+    font-size: 40px;
+    padding: 60px 100px 40px 100px;   
+}
+
+#me{
+    width: 80%;   
+}
+#conhecimentos{
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+#knowledge{
+    background-color: white;
+    padding: 60px 100px 40px 100px;   
+    
+}
+#habilits{
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+    justify-content: center;
+}
+.git-knowledge{
+    flex: 1 1 auto;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    display: flex;
+    max-width: 350px;
+    flex-direction: column;
+    background-color: #343a40;
+    width: 30%;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+}
+#img-git{
+    height: 50px;
+}
+.html-knowledge{
+    flex: 1 1 auto;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    display: flex;
+    max-width: 350px;
+    flex-direction: column;
+    background-color: #118ab2;
+    width: 30%;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+}
+#img-html{
+    height: 50px;
+}
+.css-knowledge{
+    flex: 1 1 auto;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    display: flex;
+    max-width: 350px;
+    flex-direction: column;
+    background-color: #073b4c;
+    width: 30%;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+}
+#img-css{
+    height: 50px;
+    
+}
+#social{
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+    font-size: 50px;
+    text-align: center; 
+}
+.icons{
+    background-color: white;
+    text-align: center;
+    
+}
+#img-facebook{
+    height: 50px;
+    
+}
+#img-twitter{
+    height: 50px;
+}
+#img-instagram{
+    height: 50px;
+}
+.img-align{
+    display: inline;
+}
