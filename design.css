@@ -41,6 +41,7 @@ ul{
 }
 a{
     color: white;
+    font-size: 18px;
 }
 #about{
     font-family: 'Quicksand', sans-serif;
@@ -100,6 +101,9 @@ a{
     font-family: 'Quicksand', sans-serif;
     font-size: 30px;
 }
+#img-html{
+    height: 50px;
+}
 .css-knowledge{
     flex: 1 1 auto;
     color: rgb(255, 255, 255);
@@ -112,4 +116,7 @@ a{
     text-align: center;
     font-family: 'Quicksand', sans-serif;
     font-size: 30px;
+}
+#img-css{
+    height: 50px;
 }
